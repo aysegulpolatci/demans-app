@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069400260764",
+    "project_id": "demans-asistan",
+    "storage_bucket": "demans-asistan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069400260764:android:28ab9b9eb7af66461c2d59",
+        "android_client_info": {
+          "package_name": "com.example.demansapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j2aCeMz489_FK3lJ9N6biF1CGSKoY7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -49,3 +49,16 @@ app.*.map.json
 # /android/app/google-services.json
 # /ios/Runner/GoogleService-Info.plist
 # /lib/firebase_options.dart
+
+# Project report documents (not for GitHub)
+CHALLENGES_AND_ISSUES.md
+CONCLUSION_AND_EVALUATION.md
+DATABASE_DESIGN.md
+FIREBASE_OPTIONS_ANALYSIS.md
+GITHUB_SETUP_GUIDE.md
+MAIN_DART_ANALYSIS.md
+REFERENCES.md
+SECURITY_MEASURES.md
+TECHNOLOGIES.md
+TEST_PROCESS.md
+USER_SCENARIOS.md
